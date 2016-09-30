@@ -1,0 +1,6 @@
+/*Box sizing and a little reset */
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; margin: 0; padding: 0; }
+
+/* clear fix - if needed
+.group:after { content: ""; display: table; clear: both; }
+*/
